@@ -1,6 +1,4 @@
 # React Portfolio
-<p><img src=""> </p>
-
 
 ![React Portfolio Ahrum Noh](https://github.com/ahrumnoh/reactPortfolio/blob/main/image/REACT%20Portfolio.jpg?raw=true)
 
