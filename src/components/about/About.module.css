@@ -31,6 +31,21 @@
     letter-spacing: 5px;
     line-height: 1.8;
 }
+
+  
+@keyframes text{
+    from{transform: translateX(-30px);
+        opacity:0.5;
+    }
+  }
+  
+
+@media (max-width:992px){
+    .box{
+        text-align: center;
+    }
+}
+
 .label {
     position: relative;
     background: #f2f3f7;
@@ -46,18 +61,4 @@
 .label p {
     margin-left: 200px;
    
-}
-
-  
-  @keyframes text{
-    from{transform: translateX(-30px);
-        opacity:0.5;
-    }
-  }
-  
-
-  @media (max-width:992px){
-    .box{
-        text-align: center;
-    }
 }
