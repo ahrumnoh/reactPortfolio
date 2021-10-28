@@ -2,7 +2,7 @@
 <p><img src=""> </p>
 
 
-![React Portfolio Ahrum Noh]()
+![React Portfolio Ahrum Noh](https://github.com/ahrumnoh/reactPortfolio/blob/main/image/REACT%20Portfolio.jpg?raw=true)
 
 
   ## Overview
@@ -16,8 +16,8 @@
 
    * Deployed Live Github URL: https://ahrumnoh.github.io/reactPortfolio/
   ## Screenshot
-  ![Mainpage]()
-  ![Mainpage 2]()
+  ![Mainpage](https://github.com/ahrumnoh/reactPortfolio/blob/main/image/Screenshot%20(117).png?raw=true)
+  ![Mainpage 2](https://github.com/ahrumnoh/reactPortfolio/blob/main/image/Screenshot.png?raw=true)
 
   
 
