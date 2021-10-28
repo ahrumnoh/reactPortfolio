@@ -1,11 +1,7 @@
 .box{
     margin:15px;
     margin-top: 50px;
-    /* box-shadow: 10px 10px 20px rgba(244,241,241,1) ; */
     border-radius:6px;
-    /* animation-name: text;
-    animation-duration: 7s;
-    animation-timing-function: ease-out; */
 }
 .Interest {
     /* background-color:rgba(220, 220,220, 0.3); */

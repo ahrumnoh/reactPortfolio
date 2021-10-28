@@ -40,7 +40,7 @@
 }
 .links{
   text-decoration: none;
-  /* font-family: 'Quicksand', sans-serif; */
+
   font-family: 'Comfortaa', cursive;
   color:#000;
   font-size: larger;
@@ -59,7 +59,7 @@
 }
 
 .links:hover{
- /* color:rgb(121, 189, 252); */
+
  color:rgb(121, 189, 252);
  text-decoration: underline;
 }
